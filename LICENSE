@@ -1,0 +1,25 @@
+SOURCE DISTRIBUTION AND THIRD-PARTY LICENSE NOTICE
+
+The repository maintainer has confirmed authorization to publicly redistribute
+the included DGFF/DFF and GPCR/GS-HalfConv source implementations.
+Copyright and applicable license rights remain with their respective holders.
+This confirmation of distribution permission is not a blanket MIT license or
+an additional sublicense to recipients.
+
+The necessary PP-LiteSeg/STDC implementation portions originate from
+zh320/realtime-semantic-segmentation-pytorch and retain their Apache-2.0 terms.
+The complete license text is included in licenses/Apache-2.0-zh320.txt.
+Original source attribution and modified-file notices are retained in the
+corresponding model files.
+
+The supplied DFF source credits Bilibili creator CV缝合救星; this credit is
+retained in models/dgff.py. Historical names DFF and GS-HalfConv map to DGFF
+and GPCR respectively without changing the model computation.
+
+No additional general reuse, modification or redistribution license is granted
+by this notice for portions not already covered by an applicable license or
+the relevant rightsholder's authorization. Obtain any further permissions
+required for your intended use from the respective copyright holders.
+
+Dataset and model-weight rights are outside this source distribution.
+No dataset, checkpoint or pretrained weight is included.
